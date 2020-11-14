@@ -1,5 +1,5 @@
 <!--
-vu 쓰고 tab
+vu 쓰고 tab 누르면 된다
 
 var appHeader ={
     template: '<div>header</div>',
