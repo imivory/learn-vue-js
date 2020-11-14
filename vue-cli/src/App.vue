@@ -2,6 +2,15 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
+<<<<<<< HEAD
+=======
+    <!-- 컴포넌트 명명법 종류 -->
+    <!-- 
+      <hello-wolrd></hello-wolrd>
+      <HelloWorld></HelloWorld>
+      <HelloWorld/>
+    -->
+>>>>>>> 15495cc08bc8ff23ae8f479e7ba913e755228e55
   </div>
 </template>
 
@@ -9,6 +18,10 @@
 import HelloWorld from './components/HelloWorld.vue'
 
 export default {
+<<<<<<< HEAD
+=======
+  // 인스턴스 옵션 속성 & 컴포넌트 옵션 속성
+>>>>>>> 15495cc08bc8ff23ae8f479e7ba913e755228e55
   name: 'App',
   components: {
     HelloWorld
